@@ -1,0 +1,19 @@
+.photo {
+    justify-content: center;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    transition: transform 2s;
+}
+
+#appBarComp {
+    background-color: #222;
+    border-radius: 15px;
+}
+
+.Cont{
+    display: flex;
+    justify-content: center;
+}
+
